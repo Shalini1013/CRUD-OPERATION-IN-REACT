@@ -1,0 +1,46 @@
+{
+  "grocerylist": [
+    {
+      "items": "beans 2 kg",
+      "id": "FHoaSUAe5Wk"
+    },
+    {
+      "items": "rice 5 kg ",
+      "id": "qFNf6RlQFuo"
+    },
+    {
+      "items": "ice cream",
+      "id": "RWSSXTw8KwQ"
+    },
+    {
+      "items": "chocolate ",
+      "id": "55BiEu5MafE"
+    },
+    {
+      "items": "potato 2 kg",
+      "id": "0ELtBWS_DuU"
+    },
+    {
+      "items": "onion 3 kg",
+      "id": "nSq6wF_NZ0M"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}

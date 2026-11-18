@@ -1,0 +1,18 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background:powderblue;
+  color: darkslategrey;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  font-size: larger;
+}
+h1{
+  font-size: larger;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color: darkolivegreen;
+
+}

@@ -1,0 +1,36 @@
+
+.list{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:30px;
+     
+}
+.h1{
+     font-size: 55px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color: whitesmoke;
+  background-color: black;
+}
+.edit,.delete{
+    background-color: powderblue;
+    border: 0cap;
+    vertical-align: middle;
+    color: blueviolet;
+}
+.edit:hover{
+    color: green;
+}
+
+.delete:hover{
+    color: red;
+}
+.input{
+     background-color:aliceblue;
+     color: black;
+     border-color: aliceblue;
+     border-radius: 1em;
+}
+.container{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
